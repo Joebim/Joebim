@@ -6,8 +6,6 @@
   
 - 🔭 I’m currently working on [Delve](delve.fun)
 
-- 🌱 I’m currently learning **Vue.js**
-
 - 👨‍💻 All of my projects are available at [https://joebim.github.io/Mon-Portfolio/](https://joebim.github.io/Mon-Portfolio/)
 
 - 📝 I regularly write articles on [https://dev.to/joebim](https://dev.to/joebim)
