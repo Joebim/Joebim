@@ -38,17 +38,13 @@
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   </div>
-<br>
-<br>
+
 <h2> < stats /> </h2>
 <div>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joebim&" alt="joebim" /></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joebim&show_icons=true&locale=en&layout=compact" alt="joebim" /></p>
 </div>
 
-
-<br>
-<br>
 <h2> < connect /> </h2>
 <p align="left">
 <a href="https://dev.to/https://dev.to/joebim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/joebim" height="30" width="40" /></a>
