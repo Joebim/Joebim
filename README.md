@@ -43,6 +43,7 @@
 <br>
 <br>
 <br>
+<h2> < stats /> </h2>
 <div>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joebim&" alt="joebim" /></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joebim&show_icons=true&locale=en&layout=compact" alt="joebim" /></p>
@@ -51,7 +52,7 @@
 
 <br>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h2> < connect /> </h2>
 <p align="left">
 <a href="https://dev.to/https://dev.to/joebim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/joebim" height="30" width="40" /></a>
 <a href="https://twitter.com/akinwole_joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akinwole_joseph" height="30" width="40" /></a>
