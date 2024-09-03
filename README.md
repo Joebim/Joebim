@@ -45,7 +45,6 @@
 <br>
 <div>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joebim&" alt="joebim" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joebim&show_icons=true&locale=en" alt="joebim" /></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joebim&show_icons=true&locale=en&layout=compact" alt="joebim" /></p>
 </div>
 
