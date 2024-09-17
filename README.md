@@ -1,7 +1,8 @@
 <p align = center ><img src="https://i.imgur.com/TtHp1U6.png"> </p>
 
+ <div>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joebim&" alt="joebim" /></p>
-  
+</div>
 <div>
 
 <h2> < about me /></h2>
