@@ -1,6 +1,6 @@
 <p align = center ><img src="https://i.imgur.com/TtHp1U6.png"> </p>
 
- <div>
+ <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joebim&" alt="joebim" /></p>
 </div>
 <div>
